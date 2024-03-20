@@ -13,7 +13,7 @@ tl.to("#imgthree",{
 })
 
 tl.to("#imgtwo,#imgfour",{
-    marginBottom:"-10vh",
+    marginBottom:"-20vh",
 })
 
 
